@@ -1,4 +1,4 @@
-Sales Forecasting Project
+Retail Sales Forecasting 
 
 This is an end-to-end Sales Forecasting project using Python and Power BI.
 
